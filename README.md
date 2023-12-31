@@ -35,6 +35,3 @@ Options
 
 License
 This project is licensed under the MIT License.
-
-
-Replace `your-username` with your actual GitHub username and modify the instructions and descriptions as needed to suit your project. This README provides a basic structure covering installation, usage, and licensing information. Feel free to expand or customize it further according to your project's requirements and additional details you want to include.
