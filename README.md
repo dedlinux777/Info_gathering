@@ -21,10 +21,10 @@ This is a basic information gathering tool designed to retrieve domain-related d
 To use this tool, run the `info_gathering.py` script with appropriate arguments:
 
 ```bash
-python3 info_gathering.py -d DOMAIN [-s IP] [-i DOMAIN_NAME] [-n IP_ADDRESS] [-o OUTPUT_FILE]
+python3 info_gathering.py -d DOMAIN -s IP -i DOMAIN_NAME -n IP_ADDRESS -o OUTPUT_FILE -h HELP
 
 
-Replace DOMAIN, IP, DOMAIN_NAME, IP_ADDRESS, and OUTPUT_FILE with your desired inputs.
+#Replace DOMAIN, IP, DOMAIN_NAME, IP_ADDRESS, and OUTPUT_FILE with your desired inputs.
 
 Options
 -d, --domain: Enter a domain to gather information.
